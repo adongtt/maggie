@@ -14,6 +14,16 @@ const data: ISiteMetadataResult = {
   siteUrl: 'https://adongtt.github.io/running',
   logo: 'https://www.custombaseballgloves.com/static/images/maggie.jpg',
   description: 'Personal site and blog',
+  navLinks: [
+    {
+      name: 'Blog',
+      url: 'https://adongtt.github.io/running/',
+    },
+    {
+      name: 'About',
+      url: 'https://adongtt.github.io/running/',
+    },
+  ],
 };
 
 export default data;
